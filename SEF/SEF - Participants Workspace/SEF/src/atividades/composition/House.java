@@ -29,6 +29,6 @@ public class House {
 
 	public static void main(String[] args) {
 		House myHouse = new House();
-		System.out.println();	
+		System.out.println(myHouse);	
 	}
 }
